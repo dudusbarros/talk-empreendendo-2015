@@ -1,0 +1,57 @@
+show - animação
+	slide
+		algo vazio
+	slide
+		obrigado com cor legal
+show - master
+	slide (titulo da palestra)
+		intro
+	slide (foto - nerd)
+		nerds
+		enrola sobre computadores
+	slide
+		o que as pessoas imaginam quando um computador é citado
+		fala sobre passado de computadores
+		pergunta qual é o primeiro computador
+	slide (foto - abaco)
+		fala o que é o abaco 
+		como funcionava o abaco
+	slide (foto - calculadora)
+		conta a história do abaco até a calculadora
+		fala como a calculadora é uma coisa incrívelmente foda
+	slide (foto - woz)
+		cita que na história da computação muitos são os grandes nomes 
+		apresenta história sobre o woz
+		fala sobre seu trabalho na HP
+		conta história da sua conversa com o seu chefe
+		deu errado e a história poderia acabar aqui
+		mas não acabou
+	slide (foto - woz e jobs)
+		apresenta steve jobs 
+		conta a históra de jobs no vale do silicio
+	slide (foto - apple ii)
+		cita os grandes que participaram disso (gates)
+	slide (foto - iphone)
+		mostra onde chegaram os computadores apresentando um smartphone
+		mostra grandes lideres e marcas que eles são donos
+	slide
+		conta história de como uma empresa inicia
+	slide
+		dificuldades e soluções iniciais de empresas (foto - jim papeis)
+	slide
+		primeiro computador da empresa (foto - jim computador)
+	slide
+		como funciona um programa ERP (foto - erp)
+		pra que servem as informaçãoes
+		segurança de informações
+	slide
+		explora a importancia de conhecer bem o excel e como ele salva empresas (foto - excel)
+	slide
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+		conta sobre a minha história com BI e explica o que é
+	slide
+		fala sobre futuro da computação e soluções
+	slide
+		como investir na area
+	slide
+		obrigado com cor legal

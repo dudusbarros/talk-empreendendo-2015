@@ -31,17 +31,18 @@ body {
   position: relative;
   line-height: 1;
   background-color: #fff;
-  color: #000; }
+  color: #000;
+}
 
 ::-moz-selection {
   background: #FF5E99;
-  color: #fff;
-  text-shadow: none; }
+  /*color: #fff;*/
+  /*text-shadow: none;*/ }
 
 ::selection {
   background: #FF5E99;
-  color: #fff;
-  text-shadow: none; }
+  /*color: #fff;*/
+  /*text-shadow: none;*/ }
 
 /*********************************************
  * VIEW FRAGMENTS
