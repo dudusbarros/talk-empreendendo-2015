@@ -47,11 +47,11 @@ show - master
 	slide
 		explora a importancia de conhecer bem o excel e como ele salva empresas (foto - excel)
 	slide
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 		conta sobre a minha história com BI e explica o que é
 	slide
 		fala sobre futuro da computação e soluções
 	slide
 		como investir na area
 	slide
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 		obrigado com cor legal
